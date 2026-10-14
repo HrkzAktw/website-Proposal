@@ -1,30 +1,93 @@
 [
     {
-        "studentId": "2024-0002",
-        "studentName": "Dela Cruz, Juan A.",
-        "violationType": "Minor",
-        "description": "Caught wearing incomplete uniform during morning inspection.",
-        "timestamp": "10\/12\/2026, 8:30 AM"
+        "studentId": "2024-3030",
+        "studentName": "Santos, Michael R.",
+        "violationType": "Clear",
+        "description": "Disciplinary archive records purged via Administrative Profile Override.",
+        "timestamp": "10\/14\/2026, 8:30:11 AM"
     },
     {
-        "studentId": "2024-0003",
-        "studentName": "Santos, Maria Clara L.",
-        "violationType": "Minor",
-        "description": "Unexcused absence during department orientation assembly.",
-        "timestamp": "09\/15\/2026, 1:15 PM"
+        "studentId": "2022-1001",
+        "studentName": "Balagtas, Alexander James D.",
+        "violationType": "Clear",
+        "description": "Disciplinary archive records purged via Administrative Profile Override.",
+        "timestamp": "10\/14\/2026, 8:30:37 AM"
     },
     {
-        "studentId": "2024-0003",
-        "studentName": "Santos, Maria Clara L.",
-        "violationType": "Minor",
-        "description": "Loitering and causing loud disturbance near examination rooms.",
-        "timestamp": "10\/05\/2026, 3:45 PM"
-    },
-    {
-        "studentId": "2024-0004",
-        "studentName": "Rizal, Jose P.",
+        "studentId": "2024-4040",
+        "studentName": "Truno, John Patrick Kennedy",
         "violationType": "Major",
-        "description": "Gross misconduct: Caught forging a faculty member's signature on a department clearance document.",
-        "timestamp": "10\/10\/2026, 11:00 AM"
+        "description": "Falsification",
+        "timestamp": "10\/14\/2026, 8:35:51 AM"
+    },
+    {
+        "studentId": "2024-4040",
+        "studentName": "Truno, John Patrick Kennedy",
+        "violationType": "Major",
+        "description": "Academic Dishonesty",
+        "timestamp": "10\/14\/2026, 8:39:30 AM"
+    },
+    {
+        "studentId": "2024-4040",
+        "studentName": "Truno, John Patrick Kennedy",
+        "violationType": "Major",
+        "description": "Violence & Physical Harm",
+        "timestamp": "10\/14\/2026, 8:41:06 AM"
+    },
+    {
+        "studentId": "2022-0025",
+        "studentName": "Baul, Ernest Bryan B.",
+        "violationType": "Clear",
+        "description": "Disciplinary archive records purged via Administrative Profile Override.",
+        "timestamp": "10\/14\/2026, 8:50:33 AM"
+    },
+    {
+        "studentId": "2022-0025",
+        "studentName": "Baul, Ernest Bryan B.",
+        "violationType": "Major",
+        "description": "Substance Abuse & Vices",
+        "timestamp": "10\/14\/2026, 8:52:25 AM"
+    },
+    {
+        "studentId": "2022-0025",
+        "studentName": "Baul, Ernest Bryan B.",
+        "violationType": "Minor",
+        "description": "Policy Breaches",
+        "timestamp": "10\/14\/2026, 8:54:02 AM"
+    },
+    {
+        "studentId": "2022-0025",
+        "studentName": "Baul, Ernest Bryan B.",
+        "violationType": "Minor",
+        "description": "Attendance & Punctuality",
+        "timestamp": "10\/14\/2026, 8:55:30 AM"
+    },
+    {
+        "studentId": "2022-0024",
+        "studentName": "Bognot, Joswin Angelo M.",
+        "violationType": "Major",
+        "description": "NPA Recruiter\/Terrorist",
+        "timestamp": "10\/14\/2026, 9:02:00 AM"
+    },
+    {
+        "studentId": "2023",
+        "studentName": "Sam Garcia",
+        "violationType": "Minor",
+        "description": "Traffic violation",
+        "timestamp": "10\/14\/2026, 9:08:59 AM"
+    },
+    {
+        "studentId": "2023",
+        "studentName": "Sam Garcia",
+        "violationType": "Minor",
+        "description": "Hit n Run",
+        "timestamp": "10\/14\/2026, 9:09:55 AM"
+    },
+    {
+        "studentId": "2023",
+        "studentName": "Sam Garcia",
+        "violationType": "Minor",
+        "description": "Jaywalking",
+        "timestamp": "10\/14\/2026, 9:10:25 AM"
     }
 ]
